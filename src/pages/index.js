@@ -1,6 +1,7 @@
 import Image from "next/image";
 import { Inter } from "next/font/google";
 import { useEffect } from "react";
+import Head from "next/head";
 // import NavBar from "./NavBar";
 // import image from "https://i.ibb.co/f8Hms2Y/tale-of-time-high-resolution-logo-removebg-preview.png"
 

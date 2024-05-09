@@ -7,7 +7,8 @@ export default function NavBar() {
     return (
         <section>
             <div>
-                <Image src={'https://i.ibb.co/f8Hms2Y/tale-of-time-high-resolution-logo-removebg-preview.png'}></Image>
+                <Image src={'https://i.ibb.co/f8Hms2Y/tale-of-time-high-resolution-logo-removebg-preview.png'} width={40} height={40}></Image>
+                {/* <image src="https://i.ibb.co/f8Hms2Y/tale-of-time-high-resolution-logo-removebg-preview.png"></image> */}
             </div>
             <div>
                 <ul>
